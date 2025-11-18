@@ -1,0 +1,44 @@
+{"README.md": "See file content abov
+  e",
+  "LICENSE": "See file content above",
+  ".env.example": "See file content above",
+  "Dockerfile": "See file content above",
+  "docker-compose.yml": "See file content above",
+  ".github": {
+    "workflows": {
+      "ci.yml": "See file content above"
+    }
+  },
+  "backend": {
+    "package.json": "See file content above",
+    "tsconfig.json": "See file content above",
+    "jest.config.js": "See file content above",
+    "prisma": {
+      "schema.prisma": "See file content above"
+    },
+    "src": {
+      "index.ts": "See file content above",
+      "routes": {
+        "chat.ts": "See file content above"
+      }
+    },
+    "tests": {
+      "chat.test.ts": "See file content above"
+    }
+  },
+  "frontend": {
+    "package.json": "See file content above",
+    "tsconfig.json": "See file content above",
+    "vite.config.ts": "See file content above",
+    "src": {
+      "main.tsx": "See file content above",
+      "App.tsx": "See file content above",
+      "components": {
+        "Chat.tsx": "See file content above"
+      }
+    },
+    "tests": {
+      "App.test.tsx": "See file content above"
+    }
+  }
+}
